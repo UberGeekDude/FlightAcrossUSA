@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Tallahassee Intl to Capital Region Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>KTLH</DepartureID>
+        <DepartureLLA>N30° 23' 49.70",W84° 21' 4.98",+000062.25</DepartureLLA>
+        <DestinationID>KLAN</DestinationID>
+        <DestinationLLA>N42° 46' 44.71",W84° 35' 8.52",+000851.83</DestinationLLA>
+        <Descr>Tallahassee Intl to Capital Region Intl</Descr>
+        <DepartureName>Tallahassee Intl</DepartureName>
+        <DestinationName>Capital Region Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KTLH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 23' 49.70",W84° 21' 4.98",+000062.25</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KTLH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Montgomery Regl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 18' 1.33",W86° 23' 34.98",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KMGM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+		<ATCWaypoint id="Hartsfield - Jackson Atlanta I">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 38' 11.85",W84° 25' 40.85",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KATL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nashville Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 7' 26.08",W86° 40' 40.42",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KBNA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Capital City">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 10' 54.26",W84° 54' 24.35",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KFFT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Yeager">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 22' 33.10",W81° 35' 35.24",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KCRW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="John Glenn Columbus Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 59' 51.08",W82° 53' 32.27",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KCMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>        <ATCWaypoint id="Indianapolis Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 43' 5.54",W86° 17' 34.08",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KIND</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+
+        <ATCWaypoint id="KLAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 46' 44.71",W84° 35' 8.52",+000850.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KLAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

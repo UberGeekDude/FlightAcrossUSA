@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Bismarck Muni to Phoenix Sky Harbor Intl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KBIS</DepartureID>
+        <DepartureLLA>N46° 46' 20.48",W100° 44' 42.16",+001655.25</DepartureLLA>
+        <DestinationID>KPHX</DestinationID>
+        <DestinationLLA>N33° 26' 0.91",W112° 0' 42.66",+001121.50</DestinationLLA>
+        <Descr>Bismarck Muni to Phoenix Sky Harbor Intl</Descr>
+        <DepartureName>Bismarck Muni</DepartureName>
+        <DestinationName>Phoenix Sky Harbor Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBIS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 46' 20.48",W100° 44' 42.16",+001655.25</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KBIS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cheyenne Rgnl/Jerry Olson Fiel">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 9' 20.30",W104° 48' 41.94",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KCYS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Denver Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 51' 39.56",W104° 40' 18.88",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KDEN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Santa Fe Muni">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 37' 1.33",W106° 5' 22.52",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KSAF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPHX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 26' 0.91",W112° 0' 42.66",+001100.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KPHX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

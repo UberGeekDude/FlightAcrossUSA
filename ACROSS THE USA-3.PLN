@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Capital Region Intl to Baton Rouge Metropolitan, Ryan</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KLAN</DepartureID>
+        <DepartureLLA>N42° 46' 44.71",W84° 35' 8.52",+000851.83</DepartureLLA>
+        <DestinationID>KBTR</DestinationID>
+        <DestinationLLA>N30° 31' 58.41",W91° 8' 57.40",+000067.33</DestinationLLA>
+        <Descr>Capital Region Intl to Baton Rouge Metropolitan, Ryan</Descr>
+        <DepartureName>Capital Region Intl</DepartureName>
+        <DestinationName>Baton Rouge Metropolitan, Ryan</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KLAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 46' 44.71",W84° 35' 8.52",+000851.83</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KLAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+
+        <ATCWaypoint id="Dane Co Regl-Truax">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 8' 25.02",W89° 20' 12.26",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KMSN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Minneapolis-St Paul Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 52' 54.82",W93° 13' 19.25",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KMSP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+		<ATCWaypoint id="Des Moines Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 32' 2.35",W93° 39' 47.09",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KDSM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+		<ATCWaypoint id="Abraham Lincoln Capital">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 50' 38.69",W89° 40' 41.80",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KSPI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jefferson City Memorial">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 35' 28.09",W92° 9' 23.71",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KJEF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>        <ATCWaypoint id="Adams">
+        <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 43' 46.50",W92° 13' 33.23",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KLIT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jackson-Medgar Wiley Evers International Airport">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 18' 40.26",W90° 4' 33.21",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KJAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>        
+		<ATCWaypoint id="KBTR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 31' 58.41",W91° 8' 57.40",+000050.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KBTR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

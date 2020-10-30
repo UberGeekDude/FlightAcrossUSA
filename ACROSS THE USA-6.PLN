@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Phoenix Sky Harbor Intl to Olympia Rgnl</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KPHX</DepartureID>
+        <DepartureLLA>N33° 26' 0.91",W112° 0' 42.66",+001121.50</DepartureLLA>
+        <DestinationID>KOLM</DestinationID>
+        <DestinationLLA>N46° 58' 11.73",W122° 54' 7.55",+000199.50</DestinationLLA>
+        <Descr>Phoenix Sky Harbor Intl to Olympia Rgnl</Descr>
+        <DepartureName>Phoenix Sky Harbor Intl</DepartureName>
+        <DestinationName>Olympia Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPHX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 26' 0.91",W112° 0' 42.66",+001121.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KPHX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sacramento Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 41' 43.56",W121° 35' 26.82",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KSMF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Carson">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 11' 32.30",W119° 43' 57.32",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KCXP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Salt Lake City Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 47' 12.63",W111° 58' 31.22",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KSLC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Boise Air Terminal/Gowen Fld">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 33' 51.74",W116° 13' 22.49",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KBOI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Helena Rgnl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 36' 26.24",W111° 58' 59.94",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KHLN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mcnary Fld">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 54' 34.25",W123° 0' 9.23",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KSLE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOLM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 58' 11.73",W122° 54' 7.55",+000200.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KOLM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

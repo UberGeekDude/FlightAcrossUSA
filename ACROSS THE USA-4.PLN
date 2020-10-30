@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Baton Rouge Metropolitan, Ryan to Bismarck Muni</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500.000</CruisingAlt>
+        <DepartureID>KBTR</DepartureID>
+        <DepartureLLA>N30° 31' 58.41",W91° 8' 57.40",+000067.33</DepartureLLA>
+        <DestinationID>KBIS</DestinationID>
+        <DestinationLLA>N46° 46' 20.48",W100° 44' 42.16",+001655.25</DestinationLLA>
+        <Descr>Baton Rouge Metropolitan, Ryan to Bismarck Muni</Descr>
+        <DepartureName>Baton Rouge Metropolitan, Ryan</DepartureName>
+        <DestinationName>Bismarck Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KBTR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 31' 58.41",W91° 8' 57.40",+000067.33</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>22</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KBTR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Austin-Bergstrom Intl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 11' 38.84",W97° 40' 5.71",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KAUS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Will Rogers World">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 23' 33.49",W97° 36' 8.16",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KOKC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Topeka Rgnl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 57' 0.87",W95° 39' 50.40",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KFOE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lincoln">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 51' 7.52",W96° 45' 28.01",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KLNK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pierre Rgnl">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 22' 57.72",W100° 17' 9.58",+008500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KPIR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+
+        <ATCWaypoint id="KBIS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 46' 20.48",W100° 44' 42.16",+001650.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KBIS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
