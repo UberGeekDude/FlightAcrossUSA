@@ -23,7 +23,7 @@ You can save the flight plan along the way.  Just use a different name so you ca
 <br />
 <table><tr><td>Leg</td><td>Length</td><td>Time (TBM 930)</td><td>Path</td></tr>
 <tr><td>1</td><td>1449NM</td><td>5:37 hours</td><td>Augusta to Tallahassee</td></tr>
-<tr><td>2</td></td>		1245NM</td><td>		4:53	</td><td>				  Tallahassee to Lansing</td></tr>
+<tr><td>2</td><td>		1245NM</td><td>		4:53	</td><td>				  Tallahassee to Lansing</td></tr>
 <tr><td>3</td><td>		1486NM</td><td>		5:55	</td><td>				  Lansing to Baton Rouge</td></tr>
 <tr><td>4</td><td>		1415NM</td><td>		5:34</td><td>					  Baton Rouge to Bismark</td></tr>
 <tr><td>5</td><td> 	1042NM</td><td>		3:55	</td><td>					Bismark to Phoenix</td></tr>
