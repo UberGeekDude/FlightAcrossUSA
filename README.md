@@ -1,12 +1,12 @@
 # FlightAcrossUSA
-MSFS 2020 Flight plans between Augusta Maine to Sacramento California.
-I got this idea from Ron Krassin via Facebook
-https://www.facebook.com/groups/101987210144851/user/100001674066836/
-Ron created the map he used followed to fly from Maine to Oregon, hitting all the capital cities to the main 49 states.
-https://www.facebook.com/photo?fbid=3539274852804949&set=gm.1324555621221331
-
-I created a plan for several legs in MSFS 2020 from East to West.  I created a slightly different path but still hits all the state capital cities.
-
+MSFS 2020 Flight plans between Augusta Maine to Sacramento California.<br />
+I got this idea from Ron Krassin via Facebook<br />
+https://www.facebook.com/groups/101987210144851/user/100001674066836/<br />
+Ron created the map he used followed to fly from Maine to Oregon, hitting all the capital cities to the main 49 states.<br />
+https://www.facebook.com/photo?fbid=3539274852804949&set=gm.1324555621221331<br />
+<br />
+I created a plan for several legs in MSFS 2020 from East to West.  I created a slightly different path but still hits all the state capital cities.<br />
+<br />
 Files:
 Flight Plan.txt is a list of the airport identifies.
 
